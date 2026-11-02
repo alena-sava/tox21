@@ -5,24 +5,6 @@ Machine learning project for predicting chemical toxicity using the Tox21 datase
 
 ## Project Structure
 
-```text
-tox21/
-│
-├── data/
-│   └── tox21.csv
-│
-├── output/
-│   └── tox21_clean.csv
-│
-├── report/
-│   └── Tox21_Toxicity_Prediction_Report.pdf
-│
-├── src/
-│   └── SR-ARE_Analysis.ipynb
-│
-├── README.md
-└── requirements.txt
-```
 
 ## Folder Description
 
