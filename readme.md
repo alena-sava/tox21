@@ -111,13 +111,7 @@ Random Forest achieved a higher ROC-AUC, while Logistic Regression showed better
 
 The results indicate that Random Forest provides better overall discrimination between positive and negative SR-ARE compounds. However, Logistic Regression performs better in identifying positive compounds at the default classification threshold.
 
-## Course Information
 
-- Programme: MSc Artificial Intelligence
-- Specialisation: Variant Technieken
-- Course: IM1012 – Machine Learning
-- Academic Year: 2026–2027
-- Quarter: 2
 
 ## References
 
