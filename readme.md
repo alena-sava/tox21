@@ -16,6 +16,14 @@ Machine learning project for predicting chemical toxicity using the Tox21 datase
 | `src/` | Jupyter Notebook containing data preprocessing, molecular standardization, feature extraction, model training and evaluation. |
 | `requirements.txt` | Required Python libraries. |
 
+## Dataset
+
+The Tox21 dataset used in this project is available on Kaggle:
+
+- [Tox21 Dataset – Kaggle](https://www.kaggle.com/datasets/epicskills/tox21-dataset)
+
+The dataset contains chemical compounds represented by SMILES strings and their experimental biological activity across 12 toxicity-related endpoints.
+
 ## Requirements
 
 The project uses Python 3.11 and the following libraries:
